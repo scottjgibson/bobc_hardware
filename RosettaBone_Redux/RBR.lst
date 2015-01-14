@@ -1,0 +1,78 @@
+eeschema (2013-jul-07)-stable  >> Creation date: Fri 09 Jan 2015 09:21:07 PM EST
+#Cmp ( order = Reference )
+| BB101      BeagleBone Black
+| C301       100n        
+| C302       100n        
+| C501       100n        
+| JP301      HEADER_2X2  
+| M101       PCB_GREEN_RMC
+| M102       LOGO_OSHW   
+| P8         BB_EXP_CONN 
+| P9         BB_EXP_CONN 
+| P101       SOCKET_6_LONG
+| R306       4k7         
+| R307       4k7         
+| R308       10k         
+| R309       10k         
+| R310       10k         
+| R311       10k         
+| R312       10k         
+| R313       10k         
+| R314       4k7         
+| R315       10k         
+| R316       10k         
+| R501       10k         
+| R502       10k         
+| R503       10k         
+| R504       10k         
+| R505       10k         
+| R506       10k         
+| R507       10k         
+| R508       10k         
+| R509       10k         
+| R510       10k         
+| SHIELD101  ARDUINO_DUE_SHIELD
+| U301       24C256      
+| U302       74ACT244    
+| U501       74CBTD3861  
+#End Cmp
+
+#Cmp ( order = Value )
+| BeagleBone Black BB101     
+| 100n         C301      
+| 100n         C302      
+| 100n         C501      
+| HEADER_2X2   JP301     
+| PCB_GREEN_RMC M101      
+| LOGO_OSHW    M102      
+| BB_EXP_CONN  P8        
+| BB_EXP_CONN  P9        
+| SOCKET_6_LONG P101      
+| 4k7          R306      
+| 4k7          R307      
+| 4k7          R314      
+| 10k          R308      
+| 10k          R309      
+| 10k          R310      
+| 10k          R311      
+| 10k          R312      
+| 10k          R313      
+| 10k          R315      
+| 10k          R316      
+| 10k          R501      
+| 10k          R502      
+| 10k          R503      
+| 10k          R504      
+| 10k          R505      
+| 10k          R506      
+| 10k          R507      
+| 10k          R508      
+| 10k          R509      
+| 10k          R510      
+| ARDUINO_DUE_SHIELD SHIELD101 
+| 74CBTD3861   U501      
+| 74ACT244     U302      
+| 24C256       U301      
+#End Cmp
+
+#End List
